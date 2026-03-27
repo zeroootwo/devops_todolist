@@ -1,8 +1,8 @@
-# ToDo App Deployment Instructions
+# ToDo App Instructions
 
 ## Docker Hub Repository
-Image Link: [https://hub.docker.com/r/zeroootwo/todoapp](https://hub.docker.com/r/zeroootwo/todoapp)
+Link: [https://hub.docker.com/r/zeroootwo/todoapp](https://hub.docker.com/r/zeroootwo/todoapp)
 
 ## Building the Image
 ```bash
-docker build -t todoapp .
+docker build -t zeroootwo/todoapp:1.0.0 .
